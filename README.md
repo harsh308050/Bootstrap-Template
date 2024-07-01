@@ -1,4 +1,4 @@
-<h2>Some Glimpse Of Bootstarp Template</h2>
+<h2 style="color="#001973"">Some Glimpse Of Bootstarp Template</h2>
 <p> Here, I Have Made a Bootstarp Template for Practce of Bootstap Concepts</p>
 
 ![image](https://github.com/harsh308050/Bootstrap-Template/assets/100471383/73992a83-ec9c-4264-9b34-17f97dccd34e)
